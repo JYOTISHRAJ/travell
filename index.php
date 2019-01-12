@@ -308,7 +308,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <button class="open-button" onclick="openForm()">Admin Panel</button>
 
 <div class="form-popup" id="myForm">
-  <form action="/action_page.php" class="form-container">
+  <form action="checklogin.php" class="form-container">
     <h1>Login</h1>
 
     <label for="email"><b>Email</b></label>
